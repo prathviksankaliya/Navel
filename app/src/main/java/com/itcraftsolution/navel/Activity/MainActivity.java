@@ -1,8 +1,9 @@
-package com.itcraftsolution.navel;
+package com.itcraftsolution.navel.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.os.Bundle;
+
+import com.itcraftsolution.navel.R;
 
 public class MainActivity extends AppCompatActivity {
 
