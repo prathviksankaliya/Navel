@@ -6,7 +6,7 @@
         android:topRightRadius="@dimen/_30mdp"
         />
     <solid
-        android:color="@color/darkgreen2"
+        android:color="@color/teal600"
         />
 
 </shape>
